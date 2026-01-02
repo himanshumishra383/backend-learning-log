@@ -26,3 +26,4 @@
 2. Transport layer (TCP/UDP) segments data
 3. Network layer adds IP & routes packets
 4. Data link & physical layer transmit signals
+5. <!-- updated -->
